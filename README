@@ -1,0 +1,3 @@
+Custom plugin run -> 0) (If first run) custom-maven-plugin : install
+                     1) Custom Plugin (module) : install
+                     2) plugin-client : copy-file : copy
